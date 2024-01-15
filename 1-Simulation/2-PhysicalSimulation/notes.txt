@@ -1,0 +1,10 @@
+Folder structure:
+
+input_data: 
+   contains the room template (base_room.idf) and the weather file for simulation
+
+output_data:
+   is empty and will store the simulation results files
+
+ep_data:
+   is used for temporary EnergyPlus files generated during simulation
