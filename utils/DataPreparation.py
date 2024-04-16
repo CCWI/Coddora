@@ -20,7 +20,7 @@ def scale_data(data,
 
 def walk_forward(data, window_size=15):
     '''
-    Divides a time series into moving windows of a given window size.
+    Divides a time series into sliding windows of a given window size.
     Windows are moved forward by one time step.
     '''
     data = np.array(data)
