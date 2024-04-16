@@ -1,6 +1,6 @@
 This repository provides source code and trained models of the paper<br> 
 <i>"Coddora: CO2-Based Occupancy Detection Model Trained via Domain Randomization"</i>
-<b><br>
+<br>
 The simulated dataset used for model training can be found here:
 https://doi.org/10.5281/zenodo.10507614
 <br><br>
