@@ -1,10 +1,13 @@
 Folder structure:
 
 input_data: 
-   contains the room template (base_room.idf) and the weather file for simulation
+   Contains the room template (base_room.idf) and the weather file for simulation.
+   The weather file contains a typical meteorological year (TMY) for Theresienwiese, Munich, Germany. 
+   It can be downloaded from:        
+    https://climate.onebuilding.org/WMO_Region_6_Europe/DEU_Germany/
 
 output_data:
-   is empty and will store the simulation results files
+   Is empty and will store the simulation results files.
 
 ep_data:
-   is used for temporary EnergyPlus files generated during simulation
+   Is used for temporary EnergyPlus files generated during simulation.
